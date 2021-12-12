@@ -1,3 +1,5 @@
+from components import Report, Servo, Hand
+import time
 from Robot import Robot
 robot = Robot()
 
